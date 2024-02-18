@@ -23,3 +23,5 @@ def perim_triang(lado1, lado2, lado3):
     perim = lado1 + lado2 + lado3
 
     return perim
+
+print('Hello')
